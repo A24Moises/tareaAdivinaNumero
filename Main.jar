@@ -1,4 +1,4 @@
-/*import kotlin.random.Random
+import kotlin.random.Random
 import java.io.File
 //----------------------------------------------------------------------------------------------------
 fun main() {
