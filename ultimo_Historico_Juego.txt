@@ -1,0 +1,6 @@
+      Número secreto: 2613
+      Intento 1: 1234, Aciertos: 0, Coincidencias: 3
+      Intento 2: 5643, Aciertos: 2, Coincidencias: 0
+      Intento 4: 2354, Aciertos: 1, Coincidencias: 1
+      Intento 9: 6543, Aciertos: 1, Coincidencias: 1
+      Intento 10: 3452, Aciertos: 0, Coincidencias: 2
