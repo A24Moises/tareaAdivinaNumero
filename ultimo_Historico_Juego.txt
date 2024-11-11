@@ -1,6 +1,0 @@
-      Número secreto: 3415
-      Intento 1: 1234, Aciertos: 0, Coincidencias: 3
-      Intento 2: 3215, Aciertos: 3, Coincidencias: 0
-      Intento 3: 3216, Aciertos: 2, Coincidencias: 0
-      Intento 4: 3265, Aciertos: 2, Coincidencias: 0
-      Intento 5: 3415, Aciertos: 4, Coincidencias: 0
